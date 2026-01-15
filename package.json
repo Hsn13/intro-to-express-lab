@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-express-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hsn13/intro-to-express-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hsn13/intro-to-express-lab/issues"
+  },
+  "homepage": "https://github.com/Hsn13/intro-to-express-lab#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
