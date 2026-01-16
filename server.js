@@ -23,8 +23,8 @@ app.get("/about", (req, res) => {
       <head></head>
       <body>
         <p>I am a full-stack developer with proficiency in HTML, CSS, JavaScript, Node.js, Express.js, React.js, and MongoDB.</p>
-        <p>I have a Bachelor's degree in Computer Science from XYZ University.</p>
-        <p>I am hoping to get a job as a full-stack developer at ABC Company.</p>
+        <p>I have a Bachelor's degree in Programming from Polytechnic Bahrain.</p>
+        <p>I am hoping to get a job as a Software Engineer or full-stack developer at a great Company.</p>
         <ul>
           <li>HTML</li>
           <li>CSS</li>
